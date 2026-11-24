@@ -15,6 +15,25 @@ Reúne **18 módulos temáticos** completos en formato web (`.html`) y portable 
 
 ---
 
+## Flashcards de Repaso Rápido — Regla 80/20 (166 Tarjetas · 60 Preguntas Filtro ⭐)
+
+Mazo de **166 flashcards atómicas** (con **60 tarjetas marcadas `⭐ Filtro de Final`**) diseñadas bajo la regla **80/20** para cubrir el núcleo indispensable de los **18 módulos + un bloque Integrador Transversal**, listas para estudiar tanto en línea como sin conexión:
+
+| Formato | Descripción e Ideal de Uso | Archivo |
+| :--- | :--- | :---: |
+| **Repaso Directo en GitHub / Celular** | Desplegables nativos (`<details>`) para repasar pregunta-respuesta al instante sin descargar nada. | [Markdown](FLASHCARDS/FLASHCARDS_REPASO_80_20_CLINICA_II_2026.md) |
+| **App Web Interactiva (Offline)** | Tarjetas 3D (Flip), modo lista, filtro automático **`⭐ Filtro de Final`**, búsqueda sin tildes, atajos de teclado y guardado de progreso local. | [HTML](FLASHCARDS/FLASHCARDS_REPASO_80_20_CLINICA_II_2026.html) |
+| **Hoja Imprimible de Estudio** | Documento maquetado en A4 con todas las tarjetas y tarjetas filtro destacadas en ámbar. | [PDF](FLASHCARDS/FLASHCARDS_REPASO_80_20_CLINICA_II_2026.pdf) |
+| **Anki (Importación directa)** | Archivo TSV listo para importar en Anki (2.1.54+) con etiquetas jerárquicas por semestre, módulo, tipo y `Filtro_Final`. | [Anki TSV](FLASHCARDS/flashcards_anki_clinica_ii_2026.tsv) |
+| **Excel / Quizlet / Gizmo** | Planilla CSV universal (UTF-8 con BOM) con ID, semestre, módulo, tipo, filtro, pregunta, respuesta, pista y autores. | [CSV](FLASHCARDS/flashcards_quizlet_excel_clinica_ii_2026.csv) |
+| **Fuente Estructurada** | Base JSON unificada utilizada para generar todos los formatos. | [JSON](FLASHCARDS/flashcards_data.json) |
+
+**Estrategia recomendada en 2 vueltas:**
+1. **1.ª vuelta (hoy):** Recorre las **166 tarjetas** (o filtra por módulos pendientes) para consolidar definiciones, ejes y técnicas con sus autores.
+2. **2.ª vuelta (mañana antes del examen):** Activa el filtro **`⭐ Solo Filtro de Final (60)`** para un repaso express de las definiciones, contrastes verdes y reglas de examen más preguntadas.
+
+---
+
 ## Primer Semestre — Unidades 1 y 2
 
 Bases de la psicoterapia, antropología y PNIE, relación terapéutica, persona y estilo del terapeuta, metas clínicas y herramientas de ejercicio profesional.
